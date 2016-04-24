@@ -2,6 +2,7 @@
 
 - include: "*.view.lookml"       # include all testing
 - include: "*.dashboard.lookml"  # include all the daasdkdkkdkasdffasdf323423afsasfaffffffdfasfsdfshboards
+- include: "*.*"  #testing
 
 - explore: accidents
 
