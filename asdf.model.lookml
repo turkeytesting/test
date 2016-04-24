@@ -1,7 +1,7 @@
 - connection: red_flight
 
 - include: "*.view.lookml"       # include all thwwwwwwwwwwwwwwwe
-- include: "*.dashboard.lookml"  # include all the daasdfasdf323423afsasfaffffffdfasfsdfshboards
+- include: "*.dashboard.lookml"  # include all the daasdkdkkdkasdffasdf323423afsasfaffffffdfasfsdfshboards
 
 - explore: accidents
 
